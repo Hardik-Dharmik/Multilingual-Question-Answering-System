@@ -2,6 +2,8 @@
 
 The Question Answering system that we have developed will take input as a paragraph and question from the user in multiple languages like English, Hindi, Spanish, German, Greek, Russian, Turkish, Arabic, Vietnamese, Thai, Chinese and will return an appropriate answer for the question in that language.
 
+Our model also works in Marathi Question Answering
+
 ## Accuracies
 
 | Model  | Accuracy(F1 \| EM) |
