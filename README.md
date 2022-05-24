@@ -4,6 +4,9 @@ The Question Answering system that we have developed will take input as a paragr
 
 This model also works in Marathi Question Answering
 
+Model is shared at Huggingface on
+https://huggingface.co/hd94/roberta-hindi
+
 ## Accuracies
 
 | Model  | Accuracy(F1 \| EM) |
