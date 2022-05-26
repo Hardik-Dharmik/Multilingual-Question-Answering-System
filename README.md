@@ -5,8 +5,10 @@ The Question Answering system that we have developed will take input as a paragr
 This model also works in Marathi Question Answering
 
 Website is live at https://multilingual-qa-system.netlify.app/
-Frontend : 
-Backend : 
+
+Frontend : https://github.com/Hardik-Dharmik/React-hindiqa
+
+Backend : https://github.com/Hardik-Dharmik/QASystem-Backend
 
 Model is shared at Huggingface on
 https://huggingface.co/hd94/roberta-hindi
