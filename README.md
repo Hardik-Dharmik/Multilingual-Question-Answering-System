@@ -10,6 +10,8 @@ Frontend : https://github.com/Hardik-Dharmik/React-hindiqa
 
 Backend : https://github.com/Hardik-Dharmik/QASystem-Backend
 
+API : https://hindi-qa.herokuapp.com/
+
 Model is shared at Huggingface on
 https://huggingface.co/hd94/roberta-hindi
 
